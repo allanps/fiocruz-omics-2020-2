@@ -10,6 +10,9 @@ Gestão fluida de pipeline de dados para pesquisas translacionais e multicêntri
     py main.py
 ```
 
+## Entidades
+![Entidades](/doc/entities)
+
 ## Descrição
 
 Plataforma web que visa melhorar o aproveitamento de dados na saúde por meio de um pipeline translacional, multicêntrico e fluido, que possibilita a gestão de dados de várias fontes com alta usabilidade para potencializar a geração de resultados.
