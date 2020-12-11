@@ -11,7 +11,7 @@ Gestão fluida de pipeline de dados para pesquisas translacionais e multicêntri
 ```
 
 ## Entidades
-![Entidades](/doc/entities)
+![Entidades](https://github.com/allanps/fiocruz-omics-2020-2/blob/main/doc/entities.png)
 
 ## Descrição
 
